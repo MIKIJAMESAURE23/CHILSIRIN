@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+
+    int Num1, Num2;
+    std::cout << "Enter Num1: " << endl;
+    cin >> Num1;
+    std::cout << "Enter Num2: " << endl;
+    cin >> Num2;
+    std::cout << "The sum is " <<(Num1 + Num2)<< " Multiplied by 2 is " <<(Num1 + Num2) * 2 << endl;
+    return 0;
+}
