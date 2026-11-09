@@ -18,5 +18,3 @@ result = sum * 2;
 
 System.out.println("The Result is " + result);
 }
-
-HAHAHAHAHAHAHAHAHAHAHA
